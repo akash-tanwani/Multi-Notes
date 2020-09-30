@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/aboutItem"
+        android:icon="@drawable/info"
+        android:title="aboutItem"
+        app:showAsAction="always" />
+    <item
+        android:id="@+id/addItem"
+        android:icon="@drawable/add_file_icn"
+        android:title="addItem"
+        app:showAsAction="always" />
+</menu>

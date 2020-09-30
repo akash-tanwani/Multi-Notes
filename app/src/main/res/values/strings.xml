@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Multi Notes</string>
+    <string name="enter_title">Enter Title</string>
+    <string name="enter_description">Enter Description</string>
+    <string name="file_name">NewNotes.json</string>
+    <string name="no_file">No JSON Product File Present</string>
+    <string name="saved">Product saved!</string>
+    <string name="encoding">UTF-8</string>
+    <string name="saveitem">saveItem</string>
+    <string name="title">Title</string>
+    <string name="date">Date</string>
+    <string name="description">Description</string>
+    <string name="_2020_akash_tanwani">\@2020, Akash Tanwani</string>
+    <string name="version_1_0">Version 1.0</string>
+    <string name="multi_notes">Multi Notes</string>
+</resources>
